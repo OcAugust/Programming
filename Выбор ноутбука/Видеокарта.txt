@@ -1,0 +1,15 @@
+ресурсы видеокрты если требовательны то брать дискретную
+дискретная потребляет больше заряда
+
+
+GeForce RTX 2080 Ti.-100%
+
+UHD Graphics(0.27%)
+Radeon R3 Graphics(0.27% )
+Radeon R5 M230(1.74%)
+UHD Graphics 620( 4.76%)
+Radeon 540X (6.28%)
+GeForce MX110( 6.89%)
+Radeon RX Vega 10(7.03%)
+Radeon RX Vega 8(8.02%)
+GeForce MX230(9.11% )
